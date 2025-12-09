@@ -342,4 +342,4 @@ Estas configuraciones son de código abierto. Emacs Prelude está bajo GPL v3.
 
 ---
 
-**Última actualización:** Diciembre 2024
+**Última actualización:** Diciembre 2025
