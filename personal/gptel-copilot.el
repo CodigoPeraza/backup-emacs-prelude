@@ -1,5 +1,6 @@
 ;;; gptel-copilot.el --- IA tipo Copilot para Emacs -*- lexical-binding: t; -*-
 (require 'gptel)
+(setq gptel-use-curl t)
 
 ;; -------------------- UTILIDAD: NOMBRE DEL LENGUAJE --------------------
 
